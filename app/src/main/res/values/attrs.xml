@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="TextWrapFlowLayout">
+        <attr name="horizontalSpacing" format="dimension" />
+        <attr name="verticalSpacing" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="TextWrapLayout_LayoutParams">
+        <attr name="layout_wrapTextTo" format="reference" />
+    </declare-styleable>
+    
+</resources>

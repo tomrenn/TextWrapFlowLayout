@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextWrapper</string>
+
+    <string name="hello_world">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper, turpis nec vestibulum semper, neque libero placerat libero, vel consequat lorem magna a magna. Donec nec ligula id nisi molestie dictum. Pellentesque vel eros eu quam fringilla ultricies. Pellentesque scelerisque nulla id lacus tincidunt commodo. Integer in lacus urna. In nec euismod metus. Duis nisi odio, imperdiet vitae feugiat tempor, pulvinar vel massa. Aliquam finibus lectus ac efficitur cursus. Aliquam mauris urna, suscipit at facilisis ac, tempor molestie velit. Proin scelerisque ipsum erat, non suscipit lectus pharetra sit amet. Suspendisse a consequat turpis, in iaculis mauris. Nulla tincidunt purus sem, id auctor massa luctus ut. Fusce et metus sed diam volutpat efficitur.</string>
+    <string name="action_settings">Settings</string>
+</resources>
